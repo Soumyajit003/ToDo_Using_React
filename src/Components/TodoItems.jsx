@@ -32,7 +32,7 @@ const TodoItems = ({no,display,text,setTodos}) => {
     <div className='todoitems'>
       <div className={`todoitems-container ${display}`} onClick={()=>{toggle(no)}}>
         {display === ""? <img src={not_tick} alt="" className='icons'/>:<img src={tick} alt="" className='icons'/>}
-        <div className="todoites-text">{text}</div>
+        <div className="todoitems-text">{text}</div>
       </div>
       <img className="todoitems-cross-icon icons" onClick={()=>{deleteData(no)}} src={cross} alt="" />
     </div>

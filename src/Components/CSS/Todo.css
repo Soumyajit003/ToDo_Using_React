@@ -12,7 +12,7 @@
     margin-bottom: 100px;
 }
 .todo-header{
-    margin-top: 84px;
+    margin: 84px auto 0 auto;
     color: #002765;
     font-size: 36px;
     font-weight: 600;
@@ -32,7 +32,7 @@
     width: 576px;
     height: 80px;
     padding-left: 35px;
-    font-size: 20px;
+    font-size: 22px;
 }
 .todo-add-btn{
     border-radius: 50px;
