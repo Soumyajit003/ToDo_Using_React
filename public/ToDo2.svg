@@ -51,8 +51,8 @@
 		<path style="fill:#F7B4B4;" d="M77,82v2c0,1.657,1.343,3,3,3h2v-5H77z"/>
 	</g>
 </g>
-<g id="Multicolor">
-	<g>
+<g id="Multicolor" style="display:none;">
+	<g style="display:inline;">
 		<path style="fill:#FFFFFF;" d="M23,26.84c0-2.121,1.719-3.84,3.84-3.84H55l16,13.44v46.72c0,2.121-1.719,3.84-3.84,3.84H26.84
 			C24.719,87,23,85.281,23,83.16V26.84z"/>
 		<path style="fill:#F0F1F1;" d="M55,23v9.6c0,2.121,1.719,3.84,3.84,3.84H71L55,23z"/>
@@ -179,11 +179,11 @@
 		</g>
 	</g>
 </g>
-<g id="R-Blue" style="display:none;">
-	<g style="display:inline;">
+<g id="R-Blue">
+	<g>
 		<circle style="fill:#81D2EB;" cx="55" cy="55" r="55"/>
 	</g>
-	<g style="display:inline;">
+	<g>
 		<g>
 			<path style="fill:#FFFFFF;" d="M23,26.84c0-2.121,1.719-3.84,3.84-3.84H55l16,13.44v46.72c0,2.121-1.719,3.84-3.84,3.84H26.84
 				C24.719,87,23,85.281,23,83.16V26.84z"/>
